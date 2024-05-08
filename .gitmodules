@@ -1,0 +1,18 @@
+[submodule "tutorials/go-steph"]
+	path = tutorials/go-steph
+	url = git@github.com:hd719/go-steph.git
+[submodule "tutorials/go-trevor"]
+	path = tutorials/go-trevor
+	url = git@github.com:hd719/go-trevor.git
+[submodule "tutorials/go-todd/learn-to-code-go-version-03-hd"]
+	path = tutorials/go-todd/learn-to-code-go-version-03-hd
+	url = git@github.com:hd719/learn-to-code-go-version-03-hd.git
+[submodule "projects/go-bookings"]
+	path = projects/go-bookings
+	url = git@github.com:hd719/go-bookings.git
+[submodule "projects/go-worker-pool"]
+	path = projects/go-worker-pool
+	url = git@github.com:hd719/go-worker-pool.git
+[submodule "projects/go-breeders-design-system"]
+	path = projects/go-breeders-design-system
+	url = git@github.com:hd719/go-breeders-design-systems.git
