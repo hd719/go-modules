@@ -16,3 +16,6 @@
 [submodule "projects/go-breeders-design-system"]
 	path = projects/go-breeders-design-system
 	url = git@github.com:hd719/go-breeders-design-systems.git
+[submodule "projects/go-testing"]
+	path = projects/go-testing
+	url = https://github.com/hd719/go-testing
